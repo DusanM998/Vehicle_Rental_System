@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Vehicle_Rental_System
 {
-    internal class CargoVan
+    internal class CargoVan : Vehicle
     {
     }
 }

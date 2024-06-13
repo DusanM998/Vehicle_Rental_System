@@ -8,6 +8,20 @@ namespace Vehicle_Rental_System
 {
     public class Motorcycle : Vehicle
     {
+        public override decimal GetDailyRentalCost(int rentalDays)
+        {
+            return rentalDays <= 7 ? 15 : 10;
+        }
+
+        public override decimal GetDeilyInsuranceCost(Customer customer)
+        {
+            decimal cost = 0.0002m * Value;
+            if(customer.Age < 25)
+            {
+                cost *= 1.2m;
+            }
+            return cost;
+        }
 
     }
 }
