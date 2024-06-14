@@ -14,7 +14,7 @@ namespace Vehicle_Rental_System
         {
             return rentalDays <= 7 ? 20 : 15;
         }
-        public override decimal GetDeilyInsuranceCost(Customer customer)
+        public override decimal GetDailyInsuranceCost(Customer customer)
         {
             decimal cost = 0.0001m * Value;
             if(SafetyRating >= 4)

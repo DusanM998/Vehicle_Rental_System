@@ -1,0 +1,16 @@
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\bin\Debug\net7.0\Vehicle_Rental_System.exe
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\bin\Debug\net7.0\Vehicle_Rental_System.deps.json
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\bin\Debug\net7.0\Vehicle_Rental_System.runtimeconfig.json
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\bin\Debug\net7.0\Vehicle_Rental_System.dll
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\bin\Debug\net7.0\Vehicle_Rental_System.pdb
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\Vehicle_Rental_System.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\Vehicle_Rental_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\Vehicle_Rental_System.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\Vehicle_Rental_System.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\Vehicle_Rental_System.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\Vehicle_Rental_System.sourcelink.json
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\Vehicle_Rental_System.dll
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\refint\Vehicle_Rental_System.dll
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\Vehicle_Rental_System.pdb
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\Vehicle_Rental_System.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Vehicle_Rental_System\Vehicle_Rental_System\Vehicle_Rental_System\obj\Debug\net7.0\ref\Vehicle_Rental_System.dll

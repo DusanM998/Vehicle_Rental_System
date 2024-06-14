@@ -14,6 +14,6 @@ namespace Vehicle_Rental_System
         public string Type { get; set; }
 
         public abstract decimal GetDailyRentalCost(int rentalDays);
-        public abstract decimal GetDeilyInsuranceCost(Customer customer);
+        public abstract decimal GetDailyInsuranceCost(Customer customer);
     }
 }
